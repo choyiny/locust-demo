@@ -9,6 +9,6 @@ A demonstration of how to stress test web server traffic with Locust.
 ```
 3. Run locustfile
 ```
-$ locust -f locustfile.py --host=https://microblog.vertolink.com
+$ locust -f locustfile.py --host=https://microblog.cscc09.com
 ```
 4. Visit http://0.0.0.0:8089/ for Locust UI
